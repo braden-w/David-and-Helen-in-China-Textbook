@@ -1,10 +1,16 @@
 # David and Helen in China: Simplified Character Edition
 
-## An Intermediate Course in Modern Chinese (in Two Parts with Audio CD)
+An Intermediate Course in Modern Chinese (in Two Parts with Audio CD)
+
+Phyllis Ni Zhang, Yuan-Yuan Meng, Donald K. Chang, and Irene C. Liu
 
 ---
 
-### Phyllis Ni Zhang, Yuan-Yuan Meng, Donald K. Chang, and Irene C. Liu
+## What's Included
+
+This is an upload of Part 1 of David in Helen in China, used in Yale's Intermediate Chinese, since the textbook is out of print. You can access it [here](https://github.com/braden-w/David-and-Helen-in-China-Textbook/blob/main/David%20and%20Helen%20in%20China%20(Full%20Textbook).pdf).
+
+## Online Description
 
 ![Textbook Picture](https://yalebooks.yale.edu/sites/default/files/styles/book_jacket/public/imagecache/external/d4ea515cc11551a00a5e7a5062a378be.jpg?itok=KtLMHaNh)
 
