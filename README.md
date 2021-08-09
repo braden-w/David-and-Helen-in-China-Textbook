@@ -8,7 +8,9 @@ Phyllis Ni Zhang, Yuan-Yuan Meng, Donald K. Chang, and Irene C. Liu
 
 ## Get Started
 
-This is an upload of Part 1 of David in Helen in China, used in Yale's Intermediate Chinese, since the textbook is out of print. You can access it [here](https://github.com/braden-w/David-and-Helen-in-China-Textbook/blob/main/David%20and%20Helen%20in%20China%20(Full%20Textbook).pdf).
+You can access the textbook [here](https://github.com/braden-w/David-and-Helen-in-China-Textbook/blob/main/David%20and%20Helen%20in%20China%20(Full%20Textbook).pdf).
+
+This is an upload of Part 1 of David in Helen in China, used in Yale's Intermediate Chinese, since the textbook is out of print.
 
 ## Online Description
 
